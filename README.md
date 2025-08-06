@@ -29,5 +29,5 @@ I’m a Full-Stack Developer passionate about building clean, scalable web appli
 
 
 ### 📫 Contact
-- 📧 Email: biruk.gebru@gmail.com
+- 📧 Email: biruk.gebru28@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/biruk-gebru/](https://www.linkedin.com/in/biruk-gebru/)
