@@ -59,23 +59,12 @@ I design backend systems for:
 - API-driven integrations and ecosystems  
 - Scalable distributed backend services  
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birukgebru&show_icons=true&theme=default&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birukgebru&layout=compact&theme=default&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=birukgebru&theme=tokyonight)
 
 
 ## Contact
 
 - 📧 Email: biruk.gebru28@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/biruk-gebru/
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-master-ryo-ma.vercel.app/api?username=birukgebru&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-master-ryo-ma.vercel.app/api/top-langs/?username=birukgebru&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=birukgebru&theme=tokyonight)
+- 
