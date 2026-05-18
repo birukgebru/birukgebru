@@ -18,7 +18,7 @@ I design and build enterprise-grade backend architectures. That focused on scala
 
 ### 🛠️ Tech Stack
 
-**Backend**
+**Backend**  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
