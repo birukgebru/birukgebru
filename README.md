@@ -70,3 +70,13 @@ I design backend systems for:
 
 - 📧 Email: biruk.gebru28@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/biruk-gebru/
+
+
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birukgebru&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birukgebru&layout=compact&theme=tokyonight&cache_seconds=1800)
