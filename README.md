@@ -74,9 +74,6 @@ I design backend systems for:
 
 
 
+![GitHub Stats](https://github-readme-stats-git-master-ryo-ma.vercel.app/api?username=birukgebru&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birukgebru&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birukgebru&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-master-ryo-ma.vercel.app/api/top-langs/?username=birukgebru&layout=compact&theme=tokyonight)
