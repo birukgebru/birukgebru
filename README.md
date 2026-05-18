@@ -20,7 +20,7 @@ I design and build enterprise-grade backend architectures. That focused on scala
 
 **Backend**  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white)
