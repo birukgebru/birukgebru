@@ -1,6 +1,6 @@
-### 👋 Hello, 
+### Hello 👋 I am Biruk Gebru,
 
-I am Biruk Gebru, an Enterprise Backend Engineer. Specialized in scalable SaaS systems, ERP backend platforms, workflow automation, API engineering, and distributed systems.
+an Enterprise Backend Engineer. Specialized in scalable SaaS systems, ERP backend platforms, workflow automation, API engineering, and distributed systems.
 
 I design and build enterprise-grade backend architectures. That focused on scalability, maintainability, performance, security, and clean system design.
 
@@ -27,7 +27,7 @@ I design and build enterprise-grade backend architectures. That focused on scala
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Microservices](https://img.shields.io/badge/-Microservices-FF6F00?style=flat&logo=docker&logoColor=white)
 
-**Frontend:**  
+**Frontend**  
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -37,22 +37,23 @@ I design and build enterprise-grade backend architectures. That focused on scala
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-## Database
-- PostgreSQL
-- MySQL
-- Database Design
-- Query Optimization
+**Database** 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Database Design](https://img.shields.io/badge/-Database%20Design-003B57?style=flat&logo=databricks&logoColor=white)
+![Query Optimization](https://img.shields.io/badge/-Query%20Optimization-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## DevOps & Infrastructure
-- Docker
-- Git & GitHub
-- Linux
-- Postman
-- VS Code
-- Maven
-- Containerized Development Environments
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Containerized Environments](https://img.shields.io/badge/-Containerized%20Environments-0db7ed?style=flat&logo=docker&logoColor=white)
 
-## Architecture & Concepts
+**Architecture & Concepts**
 - SaaS Architecture
 - ERP Backend Systems
 - Workflow Automation
@@ -64,23 +65,6 @@ I design and build enterprise-grade backend architectures. That focused on scala
 - System Design
 - Scalable Backend Engineering
 ---
-
-
----
-
-### 🛠️ Tech Stack
-
-
-
-**Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-
 
 # 📌 Featured Project Areas
 
