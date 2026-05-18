@@ -16,7 +16,7 @@ I design and build enterprise-grade backend architectures. That focused on scala
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend**  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -37,13 +37,13 @@ I design and build enterprise-grade backend architectures. That focused on scala
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-**Database** 
+**Database**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Database Design](https://img.shields.io/badge/-Database%20Design-003B57?style=flat&logo=databricks&logoColor=white)
 ![Query Optimization](https://img.shields.io/badge/-Query%20Optimization-336791?style=flat&logo=postgresql&logoColor=white)
 
-## DevOps & Infrastructure
+**DevOps & Infrastructure**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -66,48 +66,35 @@ I design and build enterprise-grade backend architectures. That focused on scala
 - Scalable Backend Engineering
 ---
 
-# 📌 Featured Project Areas
+**Featured Project Areas**  
 
-## 🏢 Enterprise ERP Systems
+## Enterprise ERP Systems
 Designing scalable backend systems for enterprise operations, workflow automation, and organizational processes.
 
-## ⚙️ Workflow Automation Platforms
+## Workflow Automation Platforms
 Building approval systems, workflow engines, and process-driven enterprise applications.
 
-## ☁️ Multi-Tenant SaaS Applications
+## Multi-Tenant SaaS Applications
 Developing scalable SaaS platforms with secure tenant isolation and modular architectures.
 
-## 🔌 API & Integration Systems
+## API & Integration Systems
 Creating REST APIs and backend integration services for enterprise ecosystems.
 
-## 🧩 Distributed Backend Systems
+## Distributed Backend Systems
 Exploring scalable architectures using Docker, messaging systems, caching, and microservices concepts.
 
 ---
 
-# 🎯 Current Focus
-
-- Enterprise Backend Architecture
-- PostgreSQL Performance Optimization
-- Kafka & Event Streaming
-- Redis Caching
-- Docker & Containerization
-- Microservices Architecture
-- Scalable Backend Systems
-- System Design
-
----
-
-# 📊 GitHub Stats
-
 ```md
+# Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birukgebru&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birukgebru&layout=compact)
-```
----
 
-### 📫 Contact
+```
+
+**Contact**  
 - 📧 Email: biruk.gebru28@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/biruk-gebru/](https://www.linkedin.com/in/biruk-gebru/)
 
