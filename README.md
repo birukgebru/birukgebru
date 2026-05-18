@@ -72,8 +72,10 @@ I design backend systems for:
 - 💼 LinkedIn: https://www.linkedin.com/in/biruk-gebru/
 
 
-
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-git-master-ryo-ma.vercel.app/api?username=birukgebru&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-git-master-ryo-ma.vercel.app/api/top-langs/?username=birukgebru&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=birukgebru&theme=tokyonight)
