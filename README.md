@@ -1,14 +1,15 @@
-# Hello 👋 I'm Biruk Gebru
+# Hello I'm Biruk Gebru
 
-Enterprise Backend Engineer specializing in scalable SaaS systems, ERP platforms, workflow automation, API engineering, and distributed architectures.
+I build backend systems for enterprise level applications. I have developed business automation systems which enable organizations to function more effectively.
 
-I focus on designing and building backend systems with strong emphasis on scalability, performance, security, and maintainable architecture.
+I take performance and security as a pillars of applications in addition to main functionalities. Scalability and maintenance are always in mind during development. 
 
 ## About Me
 
-- Software Engineering Lecturer (Internet Programming)
-- Backend-focused engineer building enterprise SaaS & ERP systems
-- Interested in distributed systems, APIs, and workflow automation
+- Software Engineering Lecturer at AASTU
+- A developer focused on backend
+- Building SaaS & ERP systems
+- Interested in APIs and workflow automation
 - Continuously learning advanced backend architecture and system design
 
 ## Tech Stack
@@ -41,13 +42,12 @@ I focus on designing and building backend systems with strong emphasis on scalab
 
 ## Focus Areas
 
-- Enterprise ERP Systems
-- Multi-Tenant SaaS Platforms
+- ERP Systems
+- Multi-Tenancy
+- SaaS Platforms
 - Workflow Automation Systems
 - API Design & Integration
 - Distributed Backend Architectures
-- System Design & Scalability
-- Event-Driven Architecture
 
 
 ## Featured Work Areas
@@ -55,7 +55,8 @@ I focus on designing and building backend systems with strong emphasis on scalab
 I design backend systems for:
 
 - Enterprise operations & business workflows  
-- SaaS platforms with multi-tenant architecture  
+- SaaS platforms 
+- Multi-tenant architecture  
 - API-driven integrations and ecosystems  
 - Scalable distributed backend services  
 
