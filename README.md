@@ -67,5 +67,5 @@ I design backend systems for:
 
 ## Contact
 
-- 📧 Email: biruk.gebru28@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/biruk-gebru/
+📧 Email: biruk.gebru28@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/biruk-gebru/
